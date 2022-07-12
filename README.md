@@ -1,1 +1,1 @@
-# my-certifications
+# azure-certifications
